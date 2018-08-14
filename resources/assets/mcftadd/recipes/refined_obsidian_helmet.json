@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DDD",
+        "D D",
+        "   "
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item":"mcftadd:refined_obsidian"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:refined_obsidian_helmet",
+        "count": 1
+    }
+}

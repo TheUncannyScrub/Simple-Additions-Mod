@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "#D#",
+        "D#D",
+        "#D#"
+    ],
+   
+    "key":
+    {
+        "#":
+        {
+            "item": "mcftadd:obsidian_chunk"
+        },
+        "D":
+        {
+            "item":"minecraft:diamond"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:refined_obsidian",
+        "count": 5
+    }
+}

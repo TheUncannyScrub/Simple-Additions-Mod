@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+ 
+    {
+      "item": "minecraft:paper"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "mcftadd:reinforced_sand",
+        "count": 1
+    }
+}

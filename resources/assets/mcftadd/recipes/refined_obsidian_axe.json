@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DD ",
+        "DS ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "mcftadd:refined_obsidian"
+        },
+        "S":
+        {
+            "item":"minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:refined_obsidian_axe",
+        "count": 1
+    }
+}

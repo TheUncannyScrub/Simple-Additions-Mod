@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BIB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item":"minecraft:iron_block"
+        },
+        "I":{
+            "item":"minecraft:iron_bars"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:floating_block_item",
+        "count": 1
+    }
+}

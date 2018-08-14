@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DDD",
+        "D#D",
+        "DDD"
+    ],
+   
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:glowstone"
+        },
+        "D":
+        {
+            "item":"minecraft:glass"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:floodlight",
+        "count": 1
+    }
+}

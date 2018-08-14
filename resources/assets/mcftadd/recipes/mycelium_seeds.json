@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+ 
+    {
+      "item": "minecraft:pre_mushroom"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+ 
+    {
+      "item": "minecraft:pre_mushroom"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "mcftadd:mycelium_seeds",
+        "count": 1
+    }
+}

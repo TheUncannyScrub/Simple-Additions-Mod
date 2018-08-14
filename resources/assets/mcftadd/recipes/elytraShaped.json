@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SNS",
+        "FDF",
+        "F F"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item":"minecraft:stick"
+        },
+        "N":{
+            "item":"minecraft:nether_star"
+        },
+        "F":{
+            "item":"minecraft:feather"
+        },
+        "D":{
+            "item":"minecraft:diamond_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}

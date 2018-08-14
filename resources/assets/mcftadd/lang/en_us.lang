@@ -1,0 +1,30 @@
+item.cheese.name=Cheese
+item.butter.name=Butter
+item.toast.name=Toast
+item.cooked_egg.name=Cooked Egg
+item.obsidian_chunk.name=Obsidian Chunk
+item.refined_obsidian.name=Refined Obsidian
+item.composite_ingot.name=Composite Ingot
+item.mycelium_seeds.name=Mycelium Seeds
+item.floating_block_item.name=Floating Block
+
+tile.reinforced_sand.name=Reinforced Sand
+tile.reinforced_red_sand.name=Reinforced Red Sand
+tile.reinforced_gravel.name=Reinforced Gravel
+
+tile.floodlight.name=Flood light
+tile.floating_block.name=Floating Block
+
+
+item.refined_obsidian_axe.name=Refined Obsidian Axe
+item.refined_obsidian_pickaxe.name=Refined Obsidian Pickaxe
+item.refined_obsidian_shovel.name=Refined Obsidian Shovel
+item.refined_obsidian_sword.name=Refined Obsidian Sword
+item.refined_obsidian_hoe.name=Refined Obsidian Hoe
+item.refined_obsidian_helmet.name=Refined Obsidian Helmet
+item.refined_obsidian_chestplate.name=Refined Obsidian Chestplate
+item.refined_obsidian_leggings.name=Refined Obsidian Leggings
+item.refined_obsidian_boots.name=Refined Obsidian Boots
+
+
+itemGroup.MinecraftAdditions=Minecraft Additions

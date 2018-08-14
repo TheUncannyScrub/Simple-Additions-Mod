@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:gravel",
+      "data": 1
+    },
+ 
+    {
+      "item": "minecraft:paper"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "mcftadd:reinforced_gravel",
+        "count": 1
+    }
+}

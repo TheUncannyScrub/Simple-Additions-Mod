@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "#D#",
+        "D#D",
+        "#D#"
+    ],
+   
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "D":
+        {
+            "item":"minecraft:leather"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:composite_ingot",
+        "count": 4
+    }
+}
