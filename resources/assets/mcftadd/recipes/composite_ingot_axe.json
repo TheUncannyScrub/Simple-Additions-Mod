@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DD ",
+        "DS ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "mcftadd:composite_ingot"
+        },
+        "S":
+        {
+            "item":"minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:composite_ingot_axe",
+        "count": 1
+    }
+}

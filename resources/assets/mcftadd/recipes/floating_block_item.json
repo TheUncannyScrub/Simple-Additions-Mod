@@ -21,7 +21,7 @@
     
     "result":
     {
-        "item": "minecraft:floating_block_item",
+        "item": "mcftadd:floating_block_item",
         "count": 1
     }
 }

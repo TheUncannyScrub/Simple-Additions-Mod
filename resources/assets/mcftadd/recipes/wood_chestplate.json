@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "D D",
+        "DDD",
+        "DDD"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item":"minecraft:log",
+            "data": 0
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:wood_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants":{
+        "normal":{ "model":"mcftadd:composite_block"}
+    }
+}

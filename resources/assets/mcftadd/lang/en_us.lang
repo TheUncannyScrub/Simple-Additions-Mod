@@ -2,9 +2,6 @@ item.cheese.name=Cheese
 item.butter.name=Butter
 item.toast.name=Toast
 item.cooked_egg.name=Cooked Egg
-item.obsidian_chunk.name=Obsidian Chunk
-item.refined_obsidian.name=Refined Obsidian
-item.composite_ingot.name=Composite Ingot
 item.mycelium_seeds.name=Mycelium Seeds
 item.floating_block_item.name=Floating Block
 
@@ -14,6 +11,15 @@ tile.reinforced_gravel.name=Reinforced Gravel
 
 tile.floodlight.name=Flood light
 tile.floating_block.name=Floating Block
+
+
+item.obsidian_chunk.name=Obsidian Chunk
+item.refined_obsidian.name=Refined Obsidian
+item.composite_ingot.name=Composite Ingot
+item.copper_ingot.name=Copper Ingot
+tile.copper_block.name=Copper Block
+tile.composite_block.name=Composite Block
+tile.refined_obsidian_block.name=Refined Obsidian Block
 
 
 item.refined_obsidian_axe.name=Refined Obsidian Axe
@@ -26,5 +32,39 @@ item.refined_obsidian_chestplate.name=Refined Obsidian Chestplate
 item.refined_obsidian_leggings.name=Refined Obsidian Leggings
 item.refined_obsidian_boots.name=Refined Obsidian Boots
 
+item.composite_ingot_axe.name=Composite Axe
+item.composite_ingot_pickaxe.name=Composite Pickaxe
+item.composite_ingot_shovel.name=Composite Shovel
+item.composite_ingot_sword.name=Composite Sword
+item.composite_ingot_hoe.name=Composite Hoe
+item.composite_ingot_helmet.name=Composite Helmet
+item.composite_ingot_chestplate.name=Composite Chestplate
+item.composite_ingot_leggings.name=Composite Leggings
+item.composite_ingot_boots.name=Composite Boots
+
+item.emerald_axe.name=Emerald Axe
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_sword.name=Emerald Sword
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_boots.name=Emerald Boots
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+
+item.wood_helmet.name=Wooden Helmet
+item.wood_chestplate.name=Wooden Chestplate
+item.wood_leggings.name=Wooden Leggings
+item.wood_boots.name=Wooden Boots
+
+item.copper_axe.name=Copper Axe
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_shovel.name=Copper Shovel
+item.copper_sword.name=Copper Sword
+item.copper_hoe.name=Copper Hoe
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
 
 itemGroup.MinecraftAdditions=Minecraft Additions

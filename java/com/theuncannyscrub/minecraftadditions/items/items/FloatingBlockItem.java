@@ -23,11 +23,14 @@ public class FloatingBlockItem extends ItemBase {
 	@Override
 	public ActionResult<ItemStack> onItemRightClick(World worldIn, EntityPlayer playerIn, EnumHand handIn)
 	{
+		int blockPlaceCount = 0;
 		ItemStack itemstack = playerIn.getHeldItem(handIn);
 		BlockPos playerPos = playerIn.getPosition();
-		worldIn.setBlockState(playerPos, ModItems.FLOATING_BLOCK.getDefaultState());
-		worldIn.playSound(playerIn, playerPos, SoundEvents.BLOCK_ANVIL_PLACE, SoundCategory.BLOCKS, 1.0F, 1.0F);
-		itemstack.setCount(itemstack.getCount() - 1);
+		
+			worldIn.setBlockState(playerPos, ModItems.FLOATING_BLOCK.getDefaultState());
+			worldIn.playSound(playerIn, playerPos, SoundEvents.BLOCK_ANVIL_PLACE, SoundCategory.BLOCKS, 1.0F, 1.0F);
+			itemstack.setCount(itemstack.getCount() - 1);
+			blockPlaceCount++;
 		
 		return new ActionResult<ItemStack>(EnumActionResult.SUCCESS, itemstack);
 	}

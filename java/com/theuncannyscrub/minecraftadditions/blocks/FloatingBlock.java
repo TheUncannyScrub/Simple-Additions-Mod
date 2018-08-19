@@ -11,7 +11,6 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 
 public class FloatingBlock extends Block implements IHasModel{
-
 	public FloatingBlock(String name) {
 		super(Material.ANVIL);
 		setUnlocalizedName(name);
@@ -23,6 +22,7 @@ public class FloatingBlock extends Block implements IHasModel{
 		this.setLightLevel(5.0F);
 		this.setResistance(30.0F);
 		this.setHarvestLevel("pickaxe", 2);
+
 		
 		ModItems.BLOCKS.add(this);
 		ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));

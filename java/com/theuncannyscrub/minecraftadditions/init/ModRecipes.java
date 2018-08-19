@@ -13,7 +13,7 @@ public class ModRecipes {
 		GameRegistry.addSmelting(Items.BREAD, new ItemStack(ModItems.TOAST, 1) , 1.0F);
 		GameRegistry.addSmelting(Items.EGG, new ItemStack(ModItems.COOKED_EGG, 1), 1.0F);
 		
-		GameRegistry.addSmelting(Blocks.OBSIDIAN, new ItemStack(ModItems.OBSIDIAN_CHUNK,2), 2.0f);
+		GameRegistry.addSmelting(Blocks.OBSIDIAN, new ItemStack(ModItems.OBSIDIAN_CHUNK,1), 2.0f);
 	}
 
 }

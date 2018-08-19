@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DDD",
+        "D D",
+        "   "
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item":"mcftadd:composite_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mcftadd:composite_ingot_helmet",
+        "count": 1
+    }
+}

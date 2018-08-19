@@ -9,6 +9,11 @@ public class OreDictionaryCompat
 	public static void registerOres() 
 	{
 		OreDictionary.registerOre("ingotObsidian", ModItems.OBSIDIAN_CHUNK);
+		
+		OreDictionary.registerOre("blockCopper", ModItems.COPPER_BLOCK);
+		OreDictionary.registerOre("ingotCopper", ModItems.COPPER_INGOT);
+		
+		OreDictionary.registerOre("foodToast", ModItems.TOAST);
 	}
 
 }
